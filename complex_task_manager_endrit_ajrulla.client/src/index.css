@@ -1,0 +1,27 @@
+/* index.css */
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container {
+    max-width: 960px;
+}
+
+/* Custom styles for DataTables */
+.dataTables_wrapper {
+    margin-top: 20px;
+}
+
+.table.dataTable {
+    margin-top: 0 !important;
+    margin-bottom: 15px !important;
+}
+
+.dataTables_filter input {
+    margin-left: 5px;
+}
+
+.dataTables_length select {
+    margin-right: 5px;
+}
